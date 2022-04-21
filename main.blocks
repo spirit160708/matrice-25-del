@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ms`7y`[%s9y!BL,v4FIT" x="20" y="20"/><block type="device_forever" id="BYd^FtVr@c#?cr+.naJc" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="doFZ~v-MSVTl6{8{i[|d"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="^l]4UB=48r-)y0=qY3O:"><value name="pause"><shadow type="timePicker" id="`m/ZDt.M2QpEG4~:0r2]"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="K3n8eF#/sf3s7YW:?[}E"><field name="LEDS">`
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="Ptuz0R~3-^o3Y_Sb:qd]"><value name="pause"><shadow type="timePicker" id="o#x@/vR_i~:S%7tAX5Sv"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="iaVJN~:?e#]?-)8(yN88"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="-D)Q_@~N(=Fj){VGHK0x"><value name="pause"><shadow type="timePicker" id="^7)1)3EY48)!QK3#e]pf"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="Czy)wpG.h*z|J/q3-J+r"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_pause" id="]R}g5e/Wi_xLmX`m)KC7"><value name="pause"><shadow type="timePicker" id="]0!P6F`m.6j|Og$bNsiE"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="r1@sSJ}84N!B1EQ~9N6V"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="device_pause" id="Dj(6}Lw2?;)O-|Qs~2QV"><value name="pause"><shadow type="timePicker" id="w;(H3U`D$A^]:z=e=(Y^"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="NC3^w:w+!6F6[75#1)th"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id=")H1;t1.m60[tm+Aiqxg?"><value name="pause"><shadow type="timePicker" id="k^Bvb@NYI@9vA4Xex}tV"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
